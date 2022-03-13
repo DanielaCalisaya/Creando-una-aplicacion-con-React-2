@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   
@@ -11,5 +10,14 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+/*   rafce   <---
 
-reportWebVitals();
+import React from 'react'
+
+const index = () => {
+  return (
+    <div>index</div>
+  )
+}
+
+export default index */

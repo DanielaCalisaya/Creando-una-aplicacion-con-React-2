@@ -1,8 +1,7 @@
 import './App.css';
-
+/* El title y los links del head fueron llevados al index.html de public */
 function App() {
-
-return (
+  return (
 
 <div id="wrapper">
 <SideBar/>

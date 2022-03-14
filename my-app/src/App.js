@@ -1,6 +1,7 @@
 import './App.css';
 import SideBar from './components/SideBar';
 import ContentWrapper from './components/ContentWrapper';
+
 /* El title y los links del head fueron llevados al index.html de public */
 
 function App() {

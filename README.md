@@ -1,4 +1,4 @@
-# Creando una aplicación con React-Dashboard
+# Creando una aplicación con React **Dashboard** 1
 
 ![photo](public/assets/images/mandalorian.jpg)
 
@@ -14,7 +14,8 @@ En esta ejercitación tendremos la responsabilidad de "migrar" una sencilla estr
 + CSS, tipo tablero administrativo (dashboard) a una aplicación de React.
 ¡Éxitos!😎👍✨
 
+## M9 C43
 
 ## Clase 106
 
-## Ubicación -> Programación/TRABAJOS PRACTICOS/Creando una aplicación con React-Dashboard
+## Ubicación -> Programación/TRABAJOS PRACTICOS/Creando una aplicación con React-Dashboard-1

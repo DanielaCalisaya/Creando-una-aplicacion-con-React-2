@@ -3,21 +3,27 @@ import ContentRowTop from './ContentRowTop';
 import TopBar from './TopBar';
 import Footer from './Footer';
 
-function ContentWrapper() {
+const ContentWrapper = () => {
     
 return (
-<div id="content-wrapper" className="d-flex flex-column">
+  
+  /* Content Wrapper */
+	<div id="content-wrapper" className="d-flex flex-column">
 
-  <div id="content">
+    {/* Main Content */}
+    <div id="content">
 
-    <TopBar/>
-    <ContentRowTop/>
- 
+      <TopBar/>
+      <ContentRowTop/>
+
+    </div>
+    {/* End of MainContent */}
+
+    <Footer/>
+
   </div>
+  /* End of Content Wrapper */
 
-  <Footer/>
-
-</div>
   )
 }
 
